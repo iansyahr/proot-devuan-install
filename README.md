@@ -1,5 +1,5 @@
 # proot-devuan-install
-just simple bash script for setup proot and devuan
+just simple bash script for setup proot and devuan (x86/x64 btw)
 
 ## How to use
 ~~~
