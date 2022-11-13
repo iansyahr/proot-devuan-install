@@ -1,0 +1,1 @@
+curl -LO https://proot.gitlab.io/proot/bin/proot && chmod +x proot && wget -P devuan https://uk.lxd.images.canonical.com/images/devuan/chimaera/amd64/default/20221112_11:50/rootfs.tar.xz && tar -xf devuan/rootfs.tar.xz -C devuan
